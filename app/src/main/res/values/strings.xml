@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intents Challenge</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="please_enter_your_number">Please enter your number</string>
+    <string name="please_enter_your_website">Please enter your website</string>
+    <string name="please_enter_location">Please enter location</string>
+</resources>
